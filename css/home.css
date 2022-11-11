@@ -1,0 +1,41 @@
+#ulOne{
+    margin: auto;
+}
+
+#ulOne li{
+    padding-left: 5px;
+    padding-right: 5px;
+    font-size: 20px;
+}
+
+#heading{
+    font-size: 40px;
+    color: #f86f2d;
+}
+
+ul li a {
+    font-size: 18px;
+}
+
+#header_link{
+    margin-left: 70px;
+}
+
+@media only screen and (max-width:500px){
+    /* #header_link{
+        margin-left: -35px;
+    } */
+    /* #heading{
+        font-size: 20px;
+    } */
+    #logo_image{
+        margin-left: -60px;
+    }
+    .ulTwo{
+        margin: 10px;
+    }
+}
+
+#footer{
+    background-color: rgb(228, 228, 228);
+}

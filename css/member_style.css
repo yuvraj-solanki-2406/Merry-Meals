@@ -1,0 +1,8 @@
+.try_hover :hover{
+    /* border: 3px solid red; */
+    box-shadow: 5px 5px 5px rgb(212, 212, 216);
+}
+#meal_img :hover{
+    width: 500px;
+    height: 500px;
+}
